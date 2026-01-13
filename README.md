@@ -2,12 +2,6 @@
 
 I'm a Computer Science student at HSLU, pursuing my Bachelor's degree part-time while working in the financial sector.
 
-## Github Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enmaibette&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enmaibette&theme=tokyonight)
-- 
 <!--
 **enmaibette/enmaibette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
