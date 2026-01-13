@@ -2,6 +2,14 @@
 
 I'm a Computer Science student at HSLU, pursuing my Bachelor's degree part-time while working in the financial sector.
 
+![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enmaibette&theme=nord_bright)
+
+<div>
+
+  ![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enmaibette&theme=nord_bright)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enmaibette&theme=nord_bright)
+  
+</div>
 <!--
 **enmaibette/enmaibette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
